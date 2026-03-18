@@ -1,3 +1,5 @@
+ROHIT R
+212223080045
 # Steganography Toolkit
 
 This project is a Docker image useful for solving Steganography challenges as those you can find at CTF platforms like [hackthebox.eu](https://www.hackthebox.eu/).
